@@ -18,13 +18,14 @@
 
 ✨ Here are some of the projects I've been working on:
 
-1. **E-commerce Platform**
-   - [GitHub Repo](link-to-repo)
-   - A full-stack e-commerce application with React on the front end and Node.js on the back end. Integrated with a MongoDB database for seamless product management and user transactions.
+1. **Real-Time Chatting Web Application**
+   - [Real Chat - Code](https://github.com/dineshbaidya12/chat-pusher)
+   <!-- - [Real Chat - Live](https://realchat.in) -->
+   - 🌐 Real-time Chatting Web App 🚀 - Seamlessly connect with others, chat on the fly without page reloads, and enjoy a feature-rich experience, including dynamic user connections, multimedia sharing, and more. Elevate your communication game with instant interactions and a modern, intuitive interface with responsiveness for Desktop, Laptops, Tabs, and Mobiles. 💬
 
-2. **Task Manager App**
-   - [GitHub Repo](link-to-repo)
-   - Built using React and Express, this task manager app allows users to create, edit, and organize their tasks. Utilizes a MongoDB database for efficient data storage.
+2. **Daily Dart **
+   - [Daily Dart - Code with apk](https://github.com/dineshbaidya12/Todo-and-Notes-App-DailyDart)
+   - This is a app make by flutte where user can add/delete/edit there To-do
 
 3. **Portfolio Website**
    - [GitHub Repo](link-to-repo)
@@ -43,8 +44,8 @@ These projects represent my commitment to building practical and innovative solu
 📚 Lifelong learner, coding enthusiast, and a firm believer in the power of collaboration. Let's code something amazing together!
 
 📫 Connect with me:
-   - LinkedIn: https://in.linkedin.com/in/dinesh-baidya-a15b18227?trk=public_profile_browsemap
-  <!--- - Portfolio: https://dinesh.online --->
+   - [LinkedIn](https://in.linkedin.com/in/dinesh-baidya-a15b18227?trk=public_profile_browsemap)
+   - [Portfolio](https://dbaidya.vercel.app/)
 
 
 <!---
