@@ -31,14 +31,6 @@
    - [GitHub Repo](link-to-repo)
    - My personal portfolio website showcasing my skills, projects, and experiences. Developed with React for a modern and interactive user experience.
 
-4. **Blog Platform**
-   - [GitHub Repo](link-to-repo)
-   - A simple blog platform built with Django, featuring user authentication, post creation, and commenting functionality. Uses PostgreSQL for data storage.
-
-5. **Weather App**
-   - [GitHub Repo](link-to-repo)
-   - A weather application developed with React and Node.js, fetching real-time weather data from an external API. Simple and intuitive design for easy navigation.
-
 These projects represent my commitment to building practical and innovative solutions. Check out the repositories for more details and feel free to provide feedback or collaborate!
 
 📚 Lifelong learner, coding enthusiast, and a firm believer in the power of collaboration. Let's code something amazing together!
