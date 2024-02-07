@@ -23,7 +23,7 @@
    <!-- - [Real Chat - Live](https://realchat.in) -->
    - 🌐 Real-time Chatting Web App 🚀 - Seamlessly connect with others, chat on the fly without page reloads, and enjoy a feature-rich experience, including dynamic user connections, multimedia sharing, and more. Elevate your communication game with instant interactions and a modern, intuitive interface with responsiveness for Desktop, Laptops, Tabs, and Mobiles. 💬
 
-2. **Daily Dart **
+2. **Daily Dart**
    - [Daily Dart - Code with apk](https://github.com/dineshbaidya12/Todo-and-Notes-App-DailyDart)
    - This is a app make by flutte where user can add/delete/edit there To-do
 
