@@ -27,10 +27,6 @@
    - [Daily Dart - Code with apk](https://github.com/dineshbaidya12/Todo-and-Notes-App-DailyDart)
    - This is a app make by flutte where user can add/delete/edit there To-do
 
-3. **Portfolio Website**
-   - [GitHub Repo](link-to-repo)
-   - My personal portfolio website showcasing my skills, projects, and experiences. Developed with React for a modern and interactive user experience.
-
 These projects represent my commitment to building practical and innovative solutions. Check out the repositories for more details and feel free to provide feedback or collaborate!
 
 📚 Lifelong learner, coding enthusiast, and a firm believer in the power of collaboration. Let's code something amazing together!
