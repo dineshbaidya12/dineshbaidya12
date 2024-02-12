@@ -6,7 +6,8 @@
    - App development with Flutter.
 
 🔧 Tech Stack:
-   - Languages: HTML, CSS, Javascript, Jquery, Ajax.
+   - Languages: HTML, CSS, Bootstrap, Javascript, Jquery, Ajax, PHP.
+   - CMS - Wordpress.
    - Frameworks: Laravel, Codeigniter.
    - Database: MySQL
    - Tools: ChatGPT, Bard, Git, VS Code.
