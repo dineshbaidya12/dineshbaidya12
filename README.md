@@ -32,5 +32,5 @@ These projects represent my commitment to building practical and innovative solu
 📚 Lifelong learner, coding enthusiast, and a firm believer in the power of collaboration. Let's code something amazing together!
 
 📫 Connect with me:
-   - [LinkedIn](https://in.linkedin.com/in/dinesh-baidya-a15b18227?trk=public_profile_browsemap)
+   - [LinkedIn](https://www.linkedin.com/in/dinesh-baidya-a15b18227/)
    - [Portfolio](https://dbaidya.vercel.app/)
