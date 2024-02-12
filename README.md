@@ -5,15 +5,12 @@
    - Back-end development using PHP and Laravel.
    - App development with Flutter.
 
-🚀 My mission is to build seamless digital experiences and contribute to the ever-evolving tech landscape.
-
-🌐 Exploring web development, databases, and server architecture to create robust and scalable solutions.
-
 🔧 Tech Stack:
    - Languages: HTML, CSS, Javascript, Jquery, Ajax.
    - Frameworks: Laravel, Codeigniter.
    - Database: MySQL
    - Tools: ChatGPT, Bard, Git, VS Code.
+     
   And I am always eager to explore more.
 
 ✨ Here are some of the projects I've been working on:
