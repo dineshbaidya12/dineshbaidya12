@@ -20,12 +20,14 @@
 
 1. **Real-Time Chatting Web Application**
    - [Real Chat - Code](https://github.com/dineshbaidya12/chat-pusher)
-   <!-- - [Real Chat - Live](https://realchat.in) -->
-   - 🌐 Real-time Chatting Web App 🚀 - Seamlessly connect with others, chat on the fly without page reloads, and enjoy a feature-rich experience, including dynamic user connections, multimedia sharing, and more. Elevate your communication game with instant interactions and a modern, intuitive interface with responsiveness for Desktop, Laptops, Tabs, and Mobiles. 💬
+   - [Real Chat - Live](https://realchat.in) (Coming Soon)
+   - HTML, CSS, Bootstrap, Javascript, Jquery, Laravel, Mysql, Pusher. 
+   - 🌐 Real-time Chatting Web App 🚀 - Seamlessly connect with others, chat on the fly without page reloads, and enjoy a feature-rich experience, including dynamic user connections, and more. Elevate your communication game with instant interactions and a modern, intuitive interface with responsiveness for Desktop, Laptops, Tabs, and Mobiles. 💬
 
 2. **Daily Dart**
    - [Daily Dart - Code with apk](https://github.com/dineshbaidya12/Todo-and-Notes-App-DailyDart)
-   - This is a app make by flutte where user can add/delete/edit there To-do
+   - Flutter
+   - This app is made with Flutter where users can add/delete/edit their To-dos and keep their notes safe.
 
 These projects represent my commitment to building practical and innovative solutions. Check out the repositories for more details and feel free to provide feedback or collaborate!
 
@@ -34,9 +36,3 @@ These projects represent my commitment to building practical and innovative solu
 📫 Connect with me:
    - [LinkedIn](https://in.linkedin.com/in/dinesh-baidya-a15b18227?trk=public_profile_browsemap)
    - [Portfolio](https://dbaidya.vercel.app/)
-
-
-<!---
-dineshbaidya12/dineshbaidya12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
